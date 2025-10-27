@@ -7,13 +7,13 @@ The package uses a standard `src/` layout and can be installed directly from Git
 ### Using pip
 
 ```bash
-pip install git+https://gitlab.viktor.ai/jmikec/etabs-wrapper.git
+pip install git+https://github.com/viktor-platform/etabs-sap-wrapper
 ```
 
 ### Using uv (recommended)
 
 ```bash
-uv pip install git+https://gitlab.viktor.ai/jmikec/etabs-wrapper.git
+uv pip install git+https://github.com/viktor-platform/etabs-sap-wrapper
 ```
 
 ## How It Works
