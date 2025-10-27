@@ -1,0 +1,94 @@
+# Python IDE
+.idea/
+.claude/
+.coverage/
+env
+venv/
+.venv
+scratch.py
+tasks/*
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+# Ignore Byebug command history file.
+.byebug_history
+
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+
+# Compiled python code
+**/__pycache__
+*.pyc
+
+.coverage
+
+# Folder visual studio code
+.vscode/
+
+# pre-commit config
+.pre-commit-config.yaml
+
+#codespell
+codespell*
+
+#coverage
+*coverage*
+
+# vim
+*.swp
+*.vim
+
+# build
+build/
+dist/
+*.egg-info/
+
+# etabs
+/etabs-old-module
+
+# Examples output
+examples/*.csv
+examples/*.xlsx
+
+# Extraction scripts (temporary)
+extract_chm.py
+extract_chm_simple.py
+
+# Documentation extraction
+docs/
