@@ -4,10 +4,10 @@
 
 ```bash
 # Install from GitLab
-pip install git+https://gitlab.viktor.ai/jmikec/etabs-wrapper.git
+pip install git+https://github.com/viktor-platform/etabs-sap-wrapper
 
 # Or with uv
-uv pip install git+https://gitlab.viktor.ai/jmikec/etabs-wrapper.git
+uv pip install git+https://github.com/viktor-platform/etabs-sap-wrapper
 ```
 
 ## Basic Usage (1 minute)
