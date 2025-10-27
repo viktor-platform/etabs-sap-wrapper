@@ -16,13 +16,13 @@ A Python wrapper for the CSI API (ETABS and SAP2000) that simplifies retrieving 
 ### From GitLab (recommended)
 
 ```bash
-pip install git+https://gitlab.viktor.ai/jmikec/etabs-wrapper.git
+pip install git+https://github.com/viktor-platform/etabs-sap-wrapper
 ```
 
 ### For development
 
 ```bash
-git clone https://gitlab.viktor.ai/jmikec/etabs-wrapper.git
+git clone https://github.com/viktor-platform/etabs-sap-wrapper
 cd etabs-wrapper
 uv sync
 ```
