@@ -5,7 +5,8 @@ description = "Python wrapper for ETABS API - simplified interface for retrievin
 readme = "README.md"
 requires-python = ">=3.10"
 authors = [
-    {name = "Jane Mikec"}
+    {name = "Janez Mikec"},
+    {name = "Rick van Dijk"}
 ]
 keywords = ["etabs", "structural-engineering", "csi", "api", "wrapper"]
 classifiers = [
@@ -25,7 +26,7 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://gitlab.viktor.ai/jmikec/etabs-wrapper"
+Repository = "https://github.com/viktor-platform/etabs-sap-wrapper"
 
 [build-system]
 requires = ["hatchling"]
